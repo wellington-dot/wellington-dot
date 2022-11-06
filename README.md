@@ -1,4 +1,4 @@
-### Olá, Bem vindo.. Eu sou o Wellington Rodrigues 😊
+### Olá, Bem vindo(a).. Eu sou o Wellington Rodrigues 😊
 
 
 - ⚡ Atualmente eu sou Montador de painéis elétricos.
