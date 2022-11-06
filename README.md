@@ -1,8 +1,8 @@
 ### Olá, Bem vindo.. Eu sou o Wellington Rodrigues 😊
 
 
-- ⚡ Atualmente eu sou auxiliar de eletricista..
-- 🖥️ Estou estudando Desenvolvimento Front-end na udemy, e iniciarei faculdade de ADS em fervereiro..
+- ⚡ Atualmente eu sou Montador de painéis elétricos.
+- 🖥️ Estou estudando a Linguagem Java na Udemy, e estou no segundo periodo de ADS na faculdade.
 - 😉 Aqui estão alguns projetos meus, espero que gostem..
 ##
 <div align="center">
