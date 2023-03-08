@@ -1,7 +1,7 @@
 ### Olá, Bem vindo(a).. Eu sou o Wellington Rodrigues 😊
 
 
-- ⚡ Atualmente eu sou Montador de painéis elétricos.
+- ⚡ Atualmente eu sou Montador de painéis elétricos, a procura da primeira oportunidade em tecnologia!
 - 🖥️ Cursando Análise e Desenv. Sistemas (3º periodo).
 - 🖥️ Cursando Java POO Udemy.
 - 😉 Aqui estão alguns projetos meus, espero que gostem..
