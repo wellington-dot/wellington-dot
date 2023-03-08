@@ -2,7 +2,7 @@
 
 
 - ⚡ Atualmente eu sou Montador de painéis elétricos, a procura da primeira oportunidade em tecnologia!
-- 🖥️ Cursando Análise e Desenv. Sistemas (3º periodo).
+- 🖥️ Cursando Análise e Desenv. Sistemas (3º período).
 - 🖥️ Cursando Java POO Udemy.
 - 😉 Aqui estão alguns projetos meus, espero que gostem..
 ##
