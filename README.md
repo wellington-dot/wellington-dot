@@ -2,7 +2,8 @@
 
 
 - ⚡ Atualmente eu sou Montador de painéis elétricos.
-- 🖥️ Estou estudando a Linguagem Java na Udemy, e estou no segundo periodo de ADS na faculdade.
+- 🖥️ Cursando Análise e Desenv. Sistemas (3º periodo).
+- 🖥️ Cursando Java POO Udemy.
 - 😉 Aqui estão alguns projetos meus, espero que gostem..
 ##
 <div align="center">
