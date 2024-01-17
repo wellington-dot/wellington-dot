@@ -1,7 +1,7 @@
 ### Olá, Bem vindo(a).. Eu sou o Wellington Rodrigues 😊
 
-- 🖥️ Cursando Análise e Desenv. Sistemas (4º período).
-- 🖥️ Cursando Java POO Udemy.
+- 🖥️ Análise e Desenv. Sistemas.
+- 🖥️ Cursando Java POO, Spring, SQL Udemy.
 - 😉 Aqui estão alguns projetos meus, espero que gostem..
 ##
 <div align="center">
