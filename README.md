@@ -2,7 +2,7 @@
 
 - 🖥️ Análise e Desenv. Sistemas.
 - 🖥️ Cursando Java POO, Spring, SQL Udemy.
-- 😉 Aqui estão alguns projetos meus, espero que gostem..
+- 😉 Aqui estão alguns projetos meus..
 - 💼 Linkedin - linkedin.com/in/wellington-rodrigues-dot/
 ##
 <div align="center">
