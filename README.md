@@ -2,7 +2,7 @@
 # 👋 Olá, seja bem-vindo(a)! Eu sou Wellington Rodrigues 😊
 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**.
-- 💻 Experiência com **Java POO**, **Spring Boot**, **SQL**, e desenvolvimento web.
+- 💻 Experiência com **Java POO**, **Spring Boot**, **SQL**,**Python** e web.
 - 🚀 Aqui você encontra alguns dos meus **projetos e estudos**.
 - 📌 Conecte-se comigo no [**LinkedIn**](https://www.linkedin.com/in/wellington-rodrigues-dot/).
 
