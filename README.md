@@ -1,10 +1,10 @@
-### Olá, Bem vindo(a).. Eu sou o Wellington Rodrigues 😊
+## 👋 Olá, seja bem-vindo(a)! Eu sou Wellington Rodrigues 😊
 
-- 🖥️ Análise e Desenv. Sistemas.
-- 🖥️ Cursando Java POO, Spring, SQL Udemy.
-- 😉 Aqui estão alguns projetos meus..
-- 💼 Linkedin - linkedin.com/in/wellington-rodrigues-dot/
-##
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**.
+- 💻 Experiência com **Java POO**, **Spring Boot**, **SQL**, e desenvolvimento web.
+- 🚀 Aqui você encontra alguns dos meus **projetos e estudos**.
+- 📌 Conecte-se comigo no [**LinkedIn**](https://www.linkedin.com/in/wellington-rodrigues-dot/).
+- 
 <div align="center">
   <a href="https://github.com/wellington-dot">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellington-dot&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
