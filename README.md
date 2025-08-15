@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://via.placeholder.com/900x250/0d1117/ffffff?text=Wellington+Rodrigues+%7C+Desenvolvedor+Java" alt="Banner Wellington Rodrigues" />
-</p>
-
 <!-- Apresentação -->
 # 👋 Olá, seja bem-vindo(a)! Eu sou Wellington Rodrigues 😊
 
